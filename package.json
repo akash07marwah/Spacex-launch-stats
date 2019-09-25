@@ -21,11 +21,14 @@
   "homepage": "https://github.com/akash07marwah/Spacex-launch-stats#readme",
   "dependencies": {
     "axios": "^0.19.0",
+    "classnames": "^2.2.6",
     "concurrently": "^4.1.2",
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-graphql": "^0.9.0",
     "graphql": "^14.5.7",
-    "nodemon": "^1.19.2"
+    "moment": "^2.24.0",
+    "nodemon": "^1.19.2",
+    "react-moment": "^0.9.2"
   }
 }
